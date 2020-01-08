@@ -1,0 +1,11 @@
+// Team Fortress 2 Liblist GAM File
+
+game		"Team Fortress 2: BoA"
+developer	"The Brotherhood of Arms"
+gamedll		"dlls/tf2.dll"
+type		"multiplayer_only"
+startmap		"newmap"
+trainmap		"t0a0"
+mpentity		"info_teamdetect"
+nomodels	"1"
+nohimodels	"1"
