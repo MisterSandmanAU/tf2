@@ -1,6 +1,7 @@
 // Team Fortress 2 Liblist GAM File
 
 game		"Team Fortress 2: BoA"
+icon		"icon.tga"
 developer	"The Brotherhood of Arms"
 gamedll		"dlls/tf2.dll"
 type		"multiplayer_only"
